@@ -1,0 +1,16 @@
+[INFO ] 2024-05-03 13:25:37.431 [main] StepDef - launching browser
+[INFO ] 2024-05-03 13:25:38.839 [main] StepDef - opening the url
+[INFO ] 2024-05-03 13:25:39.248 [main] StepDef - entering email and password
+[INFO ] 2024-05-03 13:25:41.908 [main] StepDef - Click on login
+[INFO ] 2024-05-03 13:25:43.239 [main] StepDef - PageTitle verified
+[INFO ] 2024-05-03 13:25:44.952 [main] StepDef - logged out
+[INFO ] 2024-05-03 13:25:45.001 [main] StepDef - PageTitle verified
+[INFO ] 2024-05-03 13:25:45.130 [main] StepDef - closing browser
+[INFO ] 2024-05-03 15:30:42.309 [main] StepDef - launching browser
+[INFO ] 2024-05-03 15:30:44.120 [main] StepDef - opening the url
+[INFO ] 2024-05-03 15:30:44.480 [main] StepDef - entering email and password
+[INFO ] 2024-05-03 15:30:50.204 [main] StepDef - Click on login
+[INFO ] 2024-05-03 15:30:51.543 [main] StepDef - PageTitle verified
+[INFO ] 2024-05-03 15:30:53.623 [main] StepDef - logged out
+[INFO ] 2024-05-03 15:30:53.633 [main] StepDef - PageTitle verified
+[INFO ] 2024-05-03 15:30:53.916 [main] StepDef - closing browser
